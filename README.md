@@ -3,5 +3,9 @@
 如何使用        
 只需要将这一行代码加入 html 页面的  `body` 中，即可显示：     
 ```xml    
-<img src="https://api.puresys.net"></img>   
+<img src="https://api.puresys.net"></img>        
+
 ```   
+展示        
+![]
+(https://api.puresys.net)
